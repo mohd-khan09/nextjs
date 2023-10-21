@@ -30,6 +30,7 @@
   },
   "ampt": {
     "app": "nextjs",
-    "runtime": "nodejs18"
+    "runtime": "nodejs18",
+    "org": "mohammedkhan"
   }
 }
